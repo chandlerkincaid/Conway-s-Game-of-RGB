@@ -2,7 +2,7 @@
 Conway's Game of Life Played out on Razer LED Keyboards
 ![Demonstrationg](https://github.com/chandlerkincaid/Conways_Game_of_RGB/blob/master/conway.gif)
 
-When I purchased my Razer brand laptop I had little initial interest in the vibrant LED lightup keyboard it came standard with. I mostly wanted a machined aluminum case for a decent price, but after having it for a few months I decided It would be a shame to just leave all those ridiculous colors permanetly turned off. Being a fan of classical AI my mind wandered to [Conway's Game of Life] (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Conway's is an example of cellular automata in which simple rules can give rise to complex "lifelike" patterns. The rules are as follows:
+When I purchased my Razer brand laptop I had little initial interest in the vibrant LED lightup keyboard it came standard with. I mostly wanted a machined aluminum case for a decent price, but after having it for a few months I decided It would be a shame to just leave all those ridiculous colors permanetly turned off. Being a fan of classical AI my mind wandered to ![Conway's Game of Life] (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Conway's is an example of cellular automata in which simple rules can give rise to complex "lifelike" patterns. The rules are as follows:
 
 Any live cell with fewer than two live neighbors dies, as if by underpopulation.
 Any live cell with two or three live neighbors lives on to the next generation.
