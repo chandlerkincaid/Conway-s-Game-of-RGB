@@ -9,7 +9,6 @@ When I purchased my Razer brand laptop I had little initial interest in the vibr
 3. Any live cell with more than three live neighbors dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
-![otherDemo](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#/media/File:Gospers_glider_gun.gif)
 My version is adapted to seed the keyboard with a random series of colors. When a new cell comes alive from the forth rule it takes on a random color from its neightbors. This results in a behavior where automata colors "fight" to become the dominant color on the keyboard.
 
 The code relies on a fantastic library [openrazer](https://github.com/openrazer/openrazer) and is adapted from one of their examples.
